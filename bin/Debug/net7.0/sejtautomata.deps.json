@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "sejtautomata/1.0.0": {
+        "runtime": {
+          "sejtautomata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sejtautomata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

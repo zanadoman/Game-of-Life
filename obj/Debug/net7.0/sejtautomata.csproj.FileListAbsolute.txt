@@ -1,0 +1,14 @@
+/home/doman/Egyetem/prog/sejtautomata/bin/Debug/net7.0/sejtautomata
+/home/doman/Egyetem/prog/sejtautomata/bin/Debug/net7.0/sejtautomata.deps.json
+/home/doman/Egyetem/prog/sejtautomata/bin/Debug/net7.0/sejtautomata.runtimeconfig.json
+/home/doman/Egyetem/prog/sejtautomata/bin/Debug/net7.0/sejtautomata.dll
+/home/doman/Egyetem/prog/sejtautomata/bin/Debug/net7.0/sejtautomata.pdb
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.GeneratedMSBuildEditorConfig.editorconfig
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.AssemblyInfoInputs.cache
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.AssemblyInfo.cs
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.csproj.CoreCompileInputs.cache
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.dll
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/refint/sejtautomata.dll
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.pdb
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/sejtautomata.genruntimeconfig.cache
+/home/doman/Egyetem/prog/sejtautomata/obj/Debug/net7.0/ref/sejtautomata.dll
